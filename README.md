@@ -1,0 +1,2 @@
+# 62bf8a64cb4eeacb-cybersecurity-client-onboardin
+Professional cybersecurity VS Code extension — without the professional price tag.  Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces. Integrates seamlessly into your VS Code workflow — keyboard shortcuts included.  ## What's Included  - Cybersecurity Client Onboarding — fully configured and ready to use - Integrated directly i
